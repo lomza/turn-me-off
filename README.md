@@ -2,6 +2,8 @@ turn-me-off
 ===========
 Scheduling Wi-Fi and Mobile data turn ON/OFF events.
 
+The Application is available on Google Play - https://play.google.com/store/apps/details?id=com.totemsoft.turnmeoff
+
 In particular, "Turn Me Off" app offers following functionalities:
   * Immediately change Wi-Fi and Mobile data status
   * Turning Wi-Fi ON and OFF in precise time
