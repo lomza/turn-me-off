@@ -16,3 +16,9 @@ Example usages may be:
   - Checking if information syncing was resumed from the same point it stopped, even if there was a disconnect
   - Checking how your app handles turning off Wi-Fi and enabling Mobile data at the same time, or turning them both on
   - Making sure the game extension was loaded correctly and without corruptions
+
+## Donate
+
+:yum:
+
+If you want to make me happy - [just drop a few...](https://www.paypal.me/toniatkachuk) ;)
